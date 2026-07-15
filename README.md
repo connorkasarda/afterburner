@@ -1,3 +1,3 @@
 # Afterburner 🚀
 
-Custom computer-mouse firmware
+Custom computer mouse firmware
