@@ -4,6 +4,9 @@
 int main()
 {
     stdio_init_all();
-    printf("Hello, Afterburner!\n");
-    return 0;
+    while (true)
+    {
+        printf("Hello, Afterburner!\n");
+        sleep_ms(1000);    
+    }
 }
