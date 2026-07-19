@@ -7,6 +7,6 @@ int main()
     while (true)
     {
         printf("Hello, Afterburner!\n");
-        sleep_ms(1000);    
+        sleep_ms(1000);
     }
 }
